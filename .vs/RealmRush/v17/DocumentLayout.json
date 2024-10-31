@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\RealmRush\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|d:\\realmrush\\assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|D:\\RealmRush\\assets\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|d:\\realmrush\\assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|D:\\RealmRush\\assets\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|D:\\RealmRush\\assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|d:\\realmrush\\assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|d:\\realmrush\\assets\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RealmRush\\Assets\\Scripts\\EnemyMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|D:\\RealmRush\\assets\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9917A9-F2B5-52D7-CC09-052CC73FC304}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +54,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\RealmRush\\Assets\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "D:\\RealmRush\\Assets\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:32:42.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TargetLocator.cs",
               "DocumentMoniker": "D:\\RealmRush\\Assets\\Tower\\TargetLocator.cs",
               "RelativeDocumentMoniker": "Assets\\Tower\\TargetLocator.cs",
               "ToolTip": "D:\\RealmRush\\Assets\\Tower\\TargetLocator.cs",
               "RelativeToolTip": "Assets\\Tower\\TargetLocator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:48:50.388Z",
               "EditorCaption": ""
@@ -69,27 +86,27 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Waypoint.cs",
               "ToolTip": "D:\\RealmRush\\Assets\\Scripts\\Waypoint.cs",
               "RelativeToolTip": "Assets\\Scripts\\Waypoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:37:36.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EnemyMover.cs",
               "DocumentMoniker": "D:\\RealmRush\\Assets\\Enemy\\EnemyMover.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyMover.cs",
               "ToolTip": "D:\\RealmRush\\Assets\\Enemy\\EnemyMover.cs",
               "RelativeToolTip": "Assets\\Enemy\\EnemyMover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:21:51.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EnemyMover.cs",
               "DocumentMoniker": "D:\\RealmRush\\Assets\\Scripts\\EnemyMover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMover.cs",
@@ -100,15 +117,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CoordinateLabeler.cs",
               "DocumentMoniker": "D:\\RealmRush\\Assets\\Scripts\\CoordinateLabeler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CoordinateLabeler.cs",
               "ToolTip": "D:\\RealmRush\\Assets\\Scripts\\CoordinateLabeler.cs",
               "RelativeToolTip": "Assets\\Scripts\\CoordinateLabeler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:13:47.67Z"
+              "WhenOpened": "2024-10-26T18:13:47.67Z",
+              "EditorCaption": ""
             }
           ]
         }
