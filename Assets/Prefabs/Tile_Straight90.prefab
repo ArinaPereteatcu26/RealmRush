@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile_Straight90
       objectReference: {fileID: 0}
+    - target: {fileID: 1128783723768867363, guid: c401083091f3f85438125e25ffc0a006, type: 3}
+      propertyPath: m_TagString
+      value: Path
+      objectReference: {fileID: 0}
     - target: {fileID: 1783988598961994468, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.7071068
@@ -34,15 +38,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 39.984238
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.625
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 40.375156
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalRotation.w
@@ -50,15 +54,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -71,6 +75,30 @@ PrefabInstance:
     - target: {fileID: 1819076373796112507, guid: c401083091f3f85438125e25ffc0a006, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6380665876310024652, guid: c401083091f3f85438125e25ffc0a006, type: 3}
+      propertyPath: isPlaceable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668443821990035609, guid: c401083091f3f85438125e25ffc0a006, type: 3}
+      propertyPath: m_text
+      value: 4 , 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668443821990035609, guid: c401083091f3f85438125e25ffc0a006, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668443821990035609, guid: c401083091f3f85438125e25ffc0a006, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668443821990035609, guid: c401083091f3f85438125e25ffc0a006, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668443821990035609, guid: c401083091f3f85438125e25ffc0a006, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
