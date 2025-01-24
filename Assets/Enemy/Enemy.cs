@@ -26,4 +26,3 @@ public class Enemy : MonoBehaviour
         bank.Withdraw(goldPenalty);
     }
 }
-}
